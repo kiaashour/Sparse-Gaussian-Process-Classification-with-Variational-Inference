@@ -7,6 +7,7 @@ Comparing different methods of Gaussian process classification with logistic reg
 ```
 conda create --name GPC python=3.8
 conda activate GPC
+
 pip install GPy
 pip install statsmodels
 pip install sklearn
