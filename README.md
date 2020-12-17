@@ -1,6 +1,6 @@
 # Gaussian Process Classification
 
-Comparing different methods of Gaussian process classification with logistic regression. The GP methods are detailed in [here](https://arxiv.org/abs/1411.2005) and [here](http://gaussianprocess.org/gpml/chapters/RW.pdf)
+Comparing different methods of Gaussian process classification with logistic regression. The GP methods are detailed in [here](https://arxiv.org/abs/1411.2005) and [here](http://gaussianprocess.org/gpml/chapters/RW.pdf).
 
 ## Setting up environment with necessary packages
 
