@@ -1,4 +1,4 @@
-# Gaussian Process Classification
+Sparse Gaussian Process Classification with Variational Inference
 
 Comparing different methods of Gaussian process classification with logistic regression. The GP methods are detailed in [here](https://arxiv.org/abs/1411.2005) and [here](http://gaussianprocess.org/gpml/chapters/RW.pdf).
 
