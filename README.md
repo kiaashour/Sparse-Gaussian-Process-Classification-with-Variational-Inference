@@ -1,4 +1,4 @@
-Sparse Gaussian Process Classification with Variational Inference
+# Sparse Gaussian Process Classification with Variational Inference
 
 Investigating a sparse approach to Gaussian process classification with variational inference ([Hensman et al., 2015](https://arxiv.org/abs/1411.2005)).
 We compare this approach with linear logistic regression as well as with Gaussian process classification (GPC) with variational inference only and with Laplace approximations.
